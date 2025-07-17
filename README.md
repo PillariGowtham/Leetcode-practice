@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
+| [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
+| [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Tree
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
