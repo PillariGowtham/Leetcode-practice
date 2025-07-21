@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [1005-univalued-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -76,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Counting Sort
 |  |
