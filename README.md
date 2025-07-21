@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 | [3811-reverse-degree-of-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 ## Greedy
 |  |
