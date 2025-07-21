@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
