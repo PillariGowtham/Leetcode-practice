@@ -71,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [2384-root-equals-sum-of-children](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [2384-root-equals-sum-of-children](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Counting Sort
 |  |
 | ------- |
