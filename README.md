@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1241-decompress-run-length-encoded-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1241-decompress-run-length-encoded-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
