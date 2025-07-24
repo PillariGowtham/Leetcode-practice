@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [1677-matrix-diagonal-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [1813-maximum-erasure-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
