@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
