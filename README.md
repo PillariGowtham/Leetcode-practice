@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Depth-First Search
 |  |
