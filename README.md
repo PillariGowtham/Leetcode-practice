@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
+| [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1813-maximum-erasure-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
@@ -124,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
+| [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
