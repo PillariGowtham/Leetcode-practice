@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
