@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2571-find-the-pivot-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3371-harshad-number) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1833-find-the-highest-altitude) |
+| [2571-find-the-pivot-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
 ## Stack
 |  |
 | ------- |
