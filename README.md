@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
+| [0128-longest-consecutive-sequence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1241-decompress-run-length-encoded-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1241-decompress-run-length-encoded-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1813-maximum-erasure-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
