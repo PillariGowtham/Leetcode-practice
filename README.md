@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [1005-univalued-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [1005-univalued-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2384-root-equals-sum-of-children](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2384-root-equals-sum-of-children) |
 ## Counting Sort
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
