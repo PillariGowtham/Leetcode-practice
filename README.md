@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [1677-matrix-diagonal-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3540-hash-divided-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3540-hash-divided-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
