@@ -5,10 +5,11 @@ class Solution {
         for(char ch:s.toCharArray()){
             if(ch=='1'){
                 c++;
-                sb.append(ch);
             }
         }
-        sb.deleteCharAt(sb.length()-1);
+        for(int i=0;i<c-1;i++){
+            sb.append('1');
+        }
         for(int i=0;i<s.length()-c;i++){
             sb.append('0');
         }
