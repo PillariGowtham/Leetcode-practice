@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Tree
 |  |
 | ------- |
