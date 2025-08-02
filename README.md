@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2107-find-unique-binary-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2401-count-asterisks](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 | [2887-sort-vowels-in-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3540-hash-divided-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3540-hash-divided-string) |
