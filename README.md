@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1241-decompress-run-length-encoded-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1241-decompress-run-length-encoded-list) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
