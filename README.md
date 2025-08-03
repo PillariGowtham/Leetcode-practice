@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
+| [2998-count-symmetric-integers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3371-harshad-number) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0118-pascals-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
