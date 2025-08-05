@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [1677-matrix-diagonal-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [2411-spiral-matrix-iv](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2411-spiral-matrix-iv) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
