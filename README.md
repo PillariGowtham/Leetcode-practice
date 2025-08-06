@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1970-sorting-the-sentence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2107-find-unique-binary-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3055-maximum-odd-binary-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3055-maximum-odd-binary-number) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
