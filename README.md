@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
