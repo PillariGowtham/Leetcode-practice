@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1899-count-items-matching-a-rule) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2107-find-unique-binary-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2107-find-unique-binary-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
