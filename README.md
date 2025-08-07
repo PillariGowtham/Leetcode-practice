@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
