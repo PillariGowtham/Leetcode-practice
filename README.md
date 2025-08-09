@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3447-clear-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3540-hash-divided-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
+| [3447-clear-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3540-hash-divided-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
