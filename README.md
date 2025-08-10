@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1448-maximum-69-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
+| [0900-reordered-power-of-2](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0900-reordered-power-of-2](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1137-height-checker](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1137-height-checker) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1137-height-checker](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1137-height-checker) |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
