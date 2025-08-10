@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0463-island-perimeter) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1137-height-checker](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1241-decompress-run-length-encoded-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1137-height-checker](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1137-height-checker) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1970-sorting-the-sentence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1137-height-checker) |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
