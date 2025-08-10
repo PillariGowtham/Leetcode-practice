@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1761-count-sorted-vowel-strings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2238-a-number-after-a-double-reversal) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0826-soup-servings) |
+| [1761-count-sorted-vowel-strings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1761-count-sorted-vowel-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
