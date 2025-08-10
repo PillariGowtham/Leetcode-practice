@@ -1,13 +1,12 @@
 class Solution {
     public int maximumNumberOfStringPairs(String[] words) {
-        HashSet<String> set = new HashSet<>();
         int ans = 0;
-        for (String word : words) {
-            String reversed = "" + word.charAt(1) + word.charAt(0);
-            if (set.contains(reversed)) {
-                ans++;
-            } else {
-                set.add(word);
+        for (int i = 0; i < words.length - 1; i++) {
+            for (int j = i + 1; j < words.length; j++) {
+                if (words[i].charAt(0) == words[j].charAt(1) &&
+                    words[i].charAt(1) == words[j].charAt(0)) {
+                    ans++;
+                }
             }
         }
         return ans;
