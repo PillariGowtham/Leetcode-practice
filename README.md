@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3533-snake-in-matrix) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
