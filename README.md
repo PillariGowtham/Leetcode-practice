@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1160-letter-tile-possibilities) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1813-maximum-erasure-value](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1813-maximum-erasure-value) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0900-reordered-power-of-2) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
