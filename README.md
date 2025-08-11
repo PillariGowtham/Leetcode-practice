@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1137-height-checker](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1241-decompress-run-length-encoded-list) |
+| [1293-three-consecutive-odds](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1552-build-an-array-with-stack-operations) |
