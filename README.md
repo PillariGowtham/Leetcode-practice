@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2058-concatenation-of-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2058-concatenation-of-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
