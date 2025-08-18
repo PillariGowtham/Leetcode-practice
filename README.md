@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3447-clear-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3447-clear-digits) |
