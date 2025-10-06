@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/0826-soup-servings) |
