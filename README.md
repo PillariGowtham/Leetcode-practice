@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3540-hash-divided-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3811-reverse-degree-of-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
