@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2238-a-number-after-a-double-reversal) |
+| [2469-convert-the-temperature](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2469-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
 | [2998-count-symmetric-integers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3055-maximum-odd-binary-number) |
