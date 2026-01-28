@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3731-find-missing-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
