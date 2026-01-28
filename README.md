@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1448-maximum-69-number) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1761-count-sorted-vowel-strings](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PillariGowtham/Leetcode-practice/tree/master/1951-find-the-winner-of-the-circular-game) |
