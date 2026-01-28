@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2678-number-of-senior-citizens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2470-removing-stars-from-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2678-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/PillariGowtham/Leetcode-practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
