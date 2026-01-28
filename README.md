@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3533-snake-in-matrix) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3668-restore-finishing-order) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/PillariGowtham/Leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
